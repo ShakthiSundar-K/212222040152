@@ -90,6 +90,10 @@ Creates a new shortened URL.
 }
 ```
 
+**Output**
+<img width="1444" height="758" alt="image" src="https://github.com/user-attachments/assets/77924b04-fa8b-48d1-907a-f847df0191d5" />
+
+
 ---
 
 ### GET /\:shortcode
@@ -127,6 +131,10 @@ Returns statistics about a shortened URL.
 ```
 
 ---
+
+**Output**
+<img width="1445" height="875" alt="image" src="https://github.com/user-attachments/assets/dbf8c94a-f905-4071-816f-c47fd01ef45b" />
+
 
 ## Logging Middleware
 
