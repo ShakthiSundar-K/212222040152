@@ -184,4 +184,3 @@ You can test the application using Postman or curl. Example test cases include:
 
 ---
 
-Let me know if you'd like a matching Postman collection or sample `.env` file as well.
